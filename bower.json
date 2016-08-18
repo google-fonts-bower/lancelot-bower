@@ -1,0 +1,17 @@
+{
+    "name": "lancelot-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Marion Kadi"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lancelot-bower.git"
+    },
+    "description": "Lancelot font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
